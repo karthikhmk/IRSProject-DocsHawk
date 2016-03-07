@@ -9,3 +9,9 @@ D:\Projects\IRSProject\BB\BB\bin\BB.dll
 D:\Projects\IRSProject\BB\BB\bin\BB.pdb
 D:\Projects\IRSProject\BB\BB\obj\Debug\BB.dll
 D:\Projects\IRSProject\BB\BB\obj\Debug\BB.pdb
+C:\Users\bbatra\Source\Repos\IRSProject\BB\BB\bin\BB.dll.config
+C:\Users\bbatra\Source\Repos\IRSProject\BB\BB\bin\BB.dll
+C:\Users\bbatra\Source\Repos\IRSProject\BB\BB\bin\BB.pdb
+C:\Users\bbatra\Source\Repos\IRSProject\BB\BB\obj\Debug\BB.csprojResolveAssemblyReference.cache
+C:\Users\bbatra\Source\Repos\IRSProject\BB\BB\obj\Debug\BB.dll
+C:\Users\bbatra\Source\Repos\IRSProject\BB\BB\obj\Debug\BB.pdb
