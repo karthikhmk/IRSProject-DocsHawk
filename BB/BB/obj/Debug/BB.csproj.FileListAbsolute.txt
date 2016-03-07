@@ -1,0 +1,11 @@
+c:\users\bhavya.batra\documents\visual studio 2013\Projects\BB\BB\bin\BB.dll.config
+c:\users\bhavya.batra\documents\visual studio 2013\Projects\BB\BB\bin\BB.dll
+c:\users\bhavya.batra\documents\visual studio 2013\Projects\BB\BB\bin\BB.pdb
+c:\users\bhavya.batra\documents\visual studio 2013\Projects\BB\BB\obj\Debug\BB.csprojResolveAssemblyReference.cache
+c:\users\bhavya.batra\documents\visual studio 2013\Projects\BB\BB\obj\Debug\BB.dll
+c:\users\bhavya.batra\documents\visual studio 2013\Projects\BB\BB\obj\Debug\BB.pdb
+D:\Projects\IRSProject\BB\BB\bin\BB.dll.config
+D:\Projects\IRSProject\BB\BB\bin\BB.dll
+D:\Projects\IRSProject\BB\BB\bin\BB.pdb
+D:\Projects\IRSProject\BB\BB\obj\Debug\BB.dll
+D:\Projects\IRSProject\BB\BB\obj\Debug\BB.pdb
